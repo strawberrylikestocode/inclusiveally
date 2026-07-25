@@ -1,0 +1,6 @@
+{
+  "name": "InclusiveAlly",
+  "description": "InclusiveAlly - Personal Decision Engine & Preference Graph with 3D Clothing & Fit Comparison.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
